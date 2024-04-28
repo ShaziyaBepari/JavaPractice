@@ -11,8 +11,12 @@ public class Lab011
         System.out.println(b2);
        // byte b4= b2+1; not possible
 short s = -31567;
-short s1 = -1
+short s1 = -1;
         short s2 =3367;
+ short s3 = 255;
+        System.out.println(s3);
+        System.out.println(s3 );
+
 
 
 
