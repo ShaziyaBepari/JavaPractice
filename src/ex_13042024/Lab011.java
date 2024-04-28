@@ -16,8 +16,7 @@ short s1 = -1;
  short s3 = 255;
         System.out.println(s3);
         System.out.println(s3 );
-
-
+        System.out.println(s2 );
 
 
     }
