@@ -12,5 +12,6 @@ int  age = 65;// int is type of storage have value 65
 System.out.println(age);
 System.out.println(age1);
         System.out.println("Wow");
+        System.out.println("Woooo");
     }
 }
