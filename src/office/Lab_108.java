@@ -6,8 +6,5 @@ public class Lab_108 {
             System.out.println("j is " + j);
         }
 
-        //for (int i=10 ; i > 0;  i--) // j+1 is also correct
-        //{
-          //  System.out.println("i is " + i);
-   // }
+
 }}
